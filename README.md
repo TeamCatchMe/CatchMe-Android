@@ -1,4 +1,7 @@
 <div align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <image src="https://user-images.githubusercontent.com/48249505/124698566-117aa880-df24-11eb-9e1a-f74ff2f32455.png"/>
 <p>🌈 "난 이것저것 취미도 많고 다양한 곳에 관심이 많아."</p>
 <p>🌈 "한 우물만 파기에 인생은 너무 길어. 다채롭게 살 거야."</p>
@@ -57,3 +60,23 @@
 	</tr>
 	</table>
 </div>
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/lydiacho"><img src="https://avatars.githubusercontent.com/u/81505421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lydiaCho</b></sub></a><br /><a href="https://github.com/TeamCatchMe/CatchMe-Android/commits?author=lydiacho" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
