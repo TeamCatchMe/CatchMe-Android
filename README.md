@@ -53,7 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://velog.io/@l2hyunwoo"><img src="https://avatars.githubusercontent.com/u/54518925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lydiaCho</b></sub></a><br /><a href="https://github.com/TeamCatchMe/CatchMe-Android/commits?author=l2hyunwoo" title="Code">💻</a></td>
+    <td align="center"><a href="https://velog.io/@l2hyunwoo"><img src="https://avatars.githubusercontent.com/u/54518925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>l2hyunwoo</b></sub></a><br /><a href="https://github.com/TeamCatchMe/CatchMe-Android/commits?author=l2hyunwoo" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lydiacho"><img src="https://avatars.githubusercontent.com/u/81505421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lydiaCho</b></sub></a><br /><a href="https://github.com/TeamCatchMe/CatchMe-Android/commits?author=lydiacho" title="Code">💻</a></td>
     <td align="center"><a href="https://velog.io/@1106laura"><img src="https://avatars.githubusercontent.com/u/48249505?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김서진</b></sub></a><br /><a href="https://github.com/TeamCatchMe/CatchMe-Android/commits?author=SeojinSeojin" title="Code">💻</a></td>
   </tr>
