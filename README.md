@@ -1,9 +1,10 @@
-<div align="center">    
-<p>🌈 "난 이것저것 취미도 많고 다양한 곳에 관심이 많아."</p>
-<p>🌈 "한 우물만 파기에 인생은 너무 길어. 다채롭게 살 거야."</p>
-<p>🌈 "내 속엔 내가 너무도 많아🎵... 한 번에 모아볼 수 없나?"</p>
-<h3>나의 매일을 다채롭게, 관심사 기반 캐릭터 관리 서비스 Catch Me</h3>
-<img src="https://user-images.githubusercontent.com/48249505/125944047-4174554d-42a0-4178-aa7f-089a21820833.png">
+<div align="center">   
+    <image src="https://user-images.githubusercontent.com/48249505/124698566-117aa880-df24-11eb-9e1a-f74ff2f32455.png"/>
+    <p>🌈 "난 이것저것 취미도 많고 다양한 곳에 관심이 많아."</p>
+    <p>🌈 "한 우물만 파기에 인생은 너무 길어. 다채롭게 살 거야."</p>
+    <p>🌈 "내 속엔 내가 너무도 많아🎵... 한 번에 모아볼 수 없나?"</p>
+    <h3>나의 매일을 다채롭게, 관심사 기반 캐릭터 관리 서비스 Catch Me</h3>
+    <img src="https://user-images.githubusercontent.com/48249505/125944047-4174554d-42a0-4178-aa7f-089a21820833.png">
 </div>
 
 <h2 align="center">프로젝트 설명</h2>
