@@ -44,23 +44,6 @@
 - MVVM + Clean Architecture
 - MVC
 
-<h3 align="center">Team CATCH ME 💚Android💚 Developer</h3>
-<div align="center">
-<!--
-<img src="https://user-images.githubusercontent.com/48249505/124699415-b3e75b80-df25-11eb-8455-b7d66a8ee261.jpeg" height="400"><br><br>
--->
-	<table>
-	<th>이현우</th>
-	<th>조승희</th>
-	<th>김서진</th>
-	<tr>
-		<td><img src="https://user-images.githubusercontent.com/48249505/124699428-b8ac0f80-df25-11eb-9bac-13d168802a06.jpeg"></td>
-		<td><img src="https://user-images.githubusercontent.com/48249505/124700755-4852bd80-df28-11eb-8375-95ee6cf348fc.png"></td>
-		<td><img src="https://user-images.githubusercontent.com/48249505/124699501-dda08280-df25-11eb-8439-33a1fa873fb0.png"></td>
-	</tr>
-	</table>
-</div>
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -70,7 +53,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://velog.io/@l2hyunwoo"><img src="https://avatars.githubusercontent.com/u/54518925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lydiaCho</b></sub></a><br /><a href="https://github.com/TeamCatchMe/CatchMe-Android/commits?author=l2hyunwoo" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lydiacho"><img src="https://avatars.githubusercontent.com/u/81505421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lydiaCho</b></sub></a><br /><a href="https://github.com/TeamCatchMe/CatchMe-Android/commits?author=lydiacho" title="Code">💻</a></td>
+    <td align="center"><a href="https://velog.io/@1106laura"><img src="https://avatars.githubusercontent.com/u/48249505?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김서진</b></sub></a><br /><a href="https://github.com/TeamCatchMe/CatchMe-Android/commits?author=SeojinSeojin" title="Code">💻</a></td>
   </tr>
 </table>
 
