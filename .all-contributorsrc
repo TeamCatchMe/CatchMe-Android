@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "lydiacho",
+      "name": "lydiaCho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81505421?v=4",
+      "profile": "https://github.com/lydiacho",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "CatchMe-Android",
+  "projectOwner": "TeamCatchMe",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
