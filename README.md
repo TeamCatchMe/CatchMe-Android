@@ -14,23 +14,28 @@
 <h2> Tech Stack </h2>
 
 - Kotlin
+    - Standard Library
+    - Coroutines
+    - Flow
 - Material Design
 - Android Jetpack
     - LifeCycle(ViewModel, LiveData, LifeCycleObserver)
     - DataBinding
     - Jetpack Navigation Component
     - Jetpack Security(EncryptedSharedPreference)
+    - Jetpack Compose
 - Android KTX
 - Dagger-Hilt
 - Kotlin Coroutines
 - Gradle Kotlin-DSL
 - Glide
+- Coil For Compose
 - Gson
 - Retrofit/OkHttp
 - Lottie
 - Timber
 - Flipper
-- Balloon
+- [Balloon](https://github.com/skydoves/Balloon)
 - Firebase
     - Analytics
     - Crashlytics
@@ -38,8 +43,9 @@
 
 <h3> Architecture </h3>
 
-- MVVM + Clean Architecture
-- MVC
+<img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" />
+
+- Android App Architecture + Clean Architecture
 
 ## Contributors ✨
 
