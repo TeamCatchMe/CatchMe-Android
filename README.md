@@ -26,7 +26,6 @@
     - Jetpack Compose
 - Android KTX
 - Dagger-Hilt
-- Kotlin Coroutines
 - Gradle Kotlin-DSL
 - Glide
 - Coil For Compose
